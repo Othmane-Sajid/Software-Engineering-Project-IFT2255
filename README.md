@@ -1,4 +1,6 @@
-# IFT2255-E21-Devoir3
+# IFT2255-E21
+
+## This repo is the result of a full Software Engeneering dev cycle with teammates. In this project we developped a fully functional Java implementation of a Gym management software.
 
 ## Logiciel #GYM — Incrément 3 : Construction
 Bien que vous avez déjà traité plusieurs itérations des workflows des exigences, analyse et conception durant les deux premiers incréments, le client a à nouveau précisé et ajouté certains besoins. Comme c'est un processus itératif et incrémental, il est normal de devoir apporter des ajustements aux artéfacts produits lors des DM1 et DM2. Toute modification devra être mentionnée dans votre rapport. Vous pouvez vous baser sur les corrigés sommaires présentés en classe ou votre version correcte. Vous êtes tenus de fournir une solution complète du projet pour cette livraison finale.
